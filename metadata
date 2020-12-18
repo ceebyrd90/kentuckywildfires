@@ -1,0 +1,6 @@
+{
+// Required properties
+"title": "Wildfires in Kentucky", // Give your project a good title
+"info": "2009-2019 wildfire and census data to tell the story of wildfires in Eastern Kentucky", // A short blurb about your project
+"coordinates": [38, -84.5], // IMPORTANT: the lat, long centerpoint of your project
+
